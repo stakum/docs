@@ -1,1 +1,31 @@
-site_name: My Docs
+site_name: Takuma Shiga @ Univeristy of Tokyo
+copyright: copyright 2021 Takuma Shiga
+
+use_directory_urls: false
+
+nav:
+- Home: 'index.md'
+- Publication: 'publiation.md'
+
+markdown_extensions:
+    - mdx_math:
+        enable_dollar_delimiter: true
+    - admonition
+    - footnotes
+
+extra_javascript: 
+  - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+extra_css:
+    - "//fonts.googleapis.com/earlyaccess/notosansjp.css"
+    - "//fonts.googleapis.com/css?family=Open+Sans:600,800"
+    - 'https://use.fontawesome.com/releases/v5.7.2/css/all.css'
+    - 'css/custom.css'
+
+theme:
+  name: 'material'
+  feature:
+    tabs: false
+
+extra:
+  search:
+    language: 'en, ja'
