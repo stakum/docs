@@ -5,6 +5,7 @@ use_directory_urls: false
 
 nav:
 - Home: 'index.md'
+- CV: 'cv.md'
 - Publication: 'publication.md'
 
 markdown_extensions:
