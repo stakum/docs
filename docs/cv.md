@@ -35,6 +35,8 @@
 
 - **May 2016** [Scientific Contribution Award of the Heat Transfer Society of Japan, The Heat Transfer Socienty of Japan](https://www.htsj.or.jp/about/360.html)
 
+- **Mar. 2013** Deen's Award, The University of Tokyo
+
 - **Aug. 2012**: [Presentation Award, Thermoelectric Society of Japan](https://www.thermoelectrics.jp/commendation.html)
 
 - **Jun. 2011**: 2011 MRS Spring Meeting and Exhibit Best Poster Award Nominee, Material Research Society
