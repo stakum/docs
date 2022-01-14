@@ -4,6 +4,8 @@
 
 <div style="border: 0px solid #ccc; height: 300px; overflow: auto; width: 100%; border-radius: 3px; -moz-border-radius: 3px; -webkit-border-radius: 3px; background-color: white; margin: auto; padding: 10px;">
 <dl>
+<dt>2022/1/14</dt>
+<dd>Article: "<i>First-principles calculations of phonon transport across a vacuum gap</i>" has been published in <a href="https://doi.org/10.1103/PhysRevB.105.045410">Physical Review B</a></dd>
 <dt>2021/9/2</dt>
 <dd>Article: "<i>Extreme near-field heat transfer between gold surfaces</i>" has been published in <a href="https://doi.org/10.1103/PhysRevB.104.125404">Physical Review B</a></dd>
 <dt>2021/8/16</dt>
