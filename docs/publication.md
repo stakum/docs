@@ -1,18 +1,44 @@
 # Publications
 
+&dagger; indicates corresponding author.
 
 ## Preprints/Submitted articles
-- Emi Minamitani, **Takuma Shiga**, Makoto Kashiwagi, and Ippei Obayashi  
-    "Topological descriptor of thermal conductivity in amorphous material"
-    *arXiv:2107.05865* (2021). <https://arxiv.org/abs/2107.05865>
+
+- **Takuma Shiga**<sup>&dagger;</sup>, Emi Minamitani<sup>&dagger;</sup>, Yuichiro Yamashita, Takashi Yagi, Naoyuki Taketoshi, Yuzo Shigesato, and Makoto Kashiwagi<sup>&dagger;</sup>  
+   "Thermal transport and topological analyses of the heat-carrying modes and their relevant local structures in varisouly dense amorphous alumina"  
+   **submitted** (2024).
+
+- Kaiyao Zhou, Kan Ueji<sup>&dagger;</sup>, **Takuma Shiga**, Hiroyuki Nishidome, Shigeki Saito, Sota Nakamura, Takahiko Endo, Yohei Yomogida, Yasumitsu Miyata, Junei Kobayashi, Takahiro Yamamoto, Takashi Yagi, and Kazuhiro Yanagi<sup>&dagger;</sup>  
+   "Correlation between the cross-plane thermal and electrical conductance in randomly stacked MoS<sub>2</sub>"  
+   **submitted** (2024).
+
+- Shingi Yamaguchi, Issei Tsunekawa, Makito Furuta, Chirag Anilkumar, Yuxuan Liao, **Takuma Shiga**, Takashi Kodama, and Junichiro Shiomi<sup>&dagger;</sup>  
+  "Anisotropic Thermal Conductivity Enhancement of Aligned Metal-Organic Framework under Water Vapor Adsorption"  
+   **submitted** (2024).
 
 ## Review Articles
 
-- Masahiro Nomura<sup>&dagger;</sup>, Junichiro Shiomi<sup>&dagger;</sup>, **Takuma Shiga**, and Roman Anufriev
+- Masahiro Nomura<sup>&dagger;</sup>, Junichiro Shiomi<sup>&dagger;</sup>, **Takuma Shiga**, and Roman Anufriev  
     "Thermal phonon engineering by tailored nanostructures"  
     *Japanese Journal of Applied Physics* **57**, 080101(1-11) (2018). **[invited review]** <https://doi.org/10.7567/JJAP.57.080101>
 
 ## Refereed Papers
+
+1. **Takuma Shiga**<sup>&dagger;,&Dagger;</sup>, Yukihiko Terada<sup>&Dagger;</sup>, Shohei Chiashi, Takashi Kodama, (&Dagger;: Equal contribution)  
+   "Effect of bundling on phonon transport in single-walled carbon nanotubes"  
+   *Carbon* **223**, 119048 (2024). <https://doi.org/10.1016/j.carbon.2024.119048>
+
+1. **Takuma Shiga**<sup>&dagger;</sup>, Hiroshi Fujihisa, Yuzo Shigesato, and Takashi Yagi  
+   "Phonon transport characteristics of *&alpha;*, *&beta;*, and *&gamma;* crystalline phases of magnesium hydride from first-principles-based anharmonic lattice dynamics"  
+   *Materials Today Communication* **38**, 108192 (2024). <https://doi.org/10.1016/j.mtcomm.2024.108192>
+
+1. Emi Minamitani<sup>&dagger;</sup>, **Takuma Shiga**, Makoto Kashiwagi, and Ippei Obayashi  
+   "Topological descriptor of thermal conductivity in amorphous Si"  
+   *The Journal of Chemical Physics* **156**, 244502 (2022). <https://doi.org/10.1063/5.0093441>
+
+1. Emi Minamitani<sup>&dagger;</sup>, **Takuma Shiga**, Makoto Kashiwagi, and Ippei Obayashi
+    "Relationship between local coordinates and thermal conductivity in amorphous carbon"  
+    *Journal of Vacuum Science & Technology A* **40**, 033408 (2022). <https://doi.org/10.1116/6.0001744>
 
 1. Takuro Takunaga, Masao Arai, Kazuaki Kobayashi, Wataru Hayami, Shigeru Suehara, **Takuma Shiga**<sup>&dagger;</sup>, Keunhan Park<sup>&dagger;</sup>, and Mathieu Francouer<sup>&dagger;</sup>   
     "First-principles calculations of phonon transport across a vacuum gap"   
