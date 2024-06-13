@@ -6,15 +6,15 @@
 
 - **Takuma Shiga**<sup>&dagger;</sup>, Emi Minamitani<sup>&dagger;</sup>, Yuichiro Yamashita, Takashi Yagi, Naoyuki Taketoshi, Yuzo Shigesato, and Makoto Kashiwagi<sup>&dagger;</sup>  
    "Thermal transport and topological analyses of the heat-carrying modes and their relevant local structures in varisouly dense amorphous alumina"  
-   **submitted** (2024).
+   **Under Review** (2024).
 
 - Kaiyao Zhou, Kan Ueji<sup>&dagger;</sup>, **Takuma Shiga**, Hiroyuki Nishidome, Shigeki Saito, Sota Nakamura, Takahiko Endo, Yohei Yomogida, Yasumitsu Miyata, Junei Kobayashi, Takahiro Yamamoto, Takashi Yagi, and Kazuhiro Yanagi<sup>&dagger;</sup>  
    "Correlation between the cross-plane thermal and electrical conductance in randomly stacked MoS<sub>2</sub>"  
-   **submitted** (2024).
+   **Under Review** (2024).
 
-- Shingi Yamaguchi, Issei Tsunekawa, Makito Furuta, Chirag Anilkumar, Yuxuan Liao, **Takuma Shiga**, Takashi Kodama, and Junichiro Shiomi<sup>&dagger;</sup>  
-  "Anisotropic Thermal Conductivity Enhancement of Aligned Metal-Organic Framework under Water Vapor Adsorption"  
-   **submitted** (2024).
+- **Takuma Shiga**<sup>&dagger;,&Dagger;</sup>, Yukihiko Terada<sup>&Dagger;</sup>, Takashi Kodama, Shohei Chiashi (&Dagger;: Equal contribution)  
+   "Influence of Perturbative Intertube Interactions on Ballistic and Quasi-Ballistic Phonon Transports in Double-walled Carbon nanotubes"
+   **Under Review** (2024). 
 
 ## Review Articles
 
@@ -23,6 +23,10 @@
     *Japanese Journal of Applied Physics* **57**, 080101(1-11) (2018). **[invited review]** <https://doi.org/10.7567/JJAP.57.080101>
 
 ## Refereed Papers
+
+1. Shingi Yamaguchi, Issei Tsunekawa, Makito Furuta, Chirag Anilkumar, Yuxuan Liao, **Takuma Shiga**, Takashi Kodama, and Junichiro Shiomi<sup>&dagger;</sup>  
+  "Anisotropic Thermal Conductivity Enhancement of Aligned Metal-Organic Framework under Water Vapor Adsorption"  
+   *The Journal of Physical Chemistry Letters* **accepted** (2024).
 
 1. **Takuma Shiga**<sup>&dagger;,&Dagger;</sup>, Yukihiko Terada<sup>&Dagger;</sup>, Shohei Chiashi, Takashi Kodama, (&Dagger;: Equal contribution)  
    "Effect of bundling on phonon transport in single-walled carbon nanotubes"  
