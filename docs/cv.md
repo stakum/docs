@@ -24,6 +24,7 @@
 
 ## Awards
 
+- **May 2024**: Touri Award (Outstanding Young Researcher Award) of the Heat Transfer Society of Japan
 - **Sep. 2022**: [ ATPC Young Scientist Award, The 13th Asian Thermophysical Properties Conference (ATPC2022) ](https://www.atpc2022.org/awards/index.html)
 - **Apr. 2021**: [The Young Scientists' Award, Minister of Education, Culture, Sports, Science and Technology of Japan](https://www.mext.go.jp/content/20210414-mxt_sinkou01-000013957_2.pdf)
 - **Sep. 2020** [Award for Best Review Paper, Thermal phonon engineering by tailored nanostructures, The Japan Society of Applied Physics](https://www.jsap.or.jp/outstanding-paper-award/recipients42)
