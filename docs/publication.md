@@ -22,11 +22,11 @@
 
 1. **Takuma Shiga**<sup>&dagger;</sup>, Emi Minamitani<sup>&dagger;</sup>, Yuichiro Yamashita, Takashi Yagi, Naoyuki Taketoshi, Yuzo Shigesato, and Makoto Kashiwagi<sup>&dagger;</sup>  
    "Thermal transport and topological analyses of the heat-carrying modes and their relevant local structures in varisouly dense amorphous alumina"  
-   *Applied Physics Letters* **125**, 012201 (2024). <https://doi.org/10.1063/5.0200729>
+   *Applied Physics Letters* **125**(1), 012201 (2024). <https://doi.org/10.1063/5.0200729>
 
 1. Shingi Yamaguchi, Issei Tsunekawa, Makito Furuta, Chirag Anilkumar, Yuxuan Liao, **Takuma Shiga**, Takashi Kodama, and Junichiro Shiomi<sup>&dagger;</sup>  
   "Anisotropic Thermal Conductivity Enhancement of Aligned Metal-Organic Framework under Water Vapor Adsorption"  
-   *The Journal of Physical Chemistry Letters* **15** (25), 6628-6633 (2024). <https://doi.org/10.1021/acs.jpclett.4c01244>
+   *The Journal of Physical Chemistry Letters* **15**(25), 6628-6633 (2024). <https://doi.org/10.1021/acs.jpclett.4c01244>
 
 1. **Takuma Shiga**<sup>&dagger;,&Dagger;</sup>, Yukihiko Terada<sup>&Dagger;</sup>, Shohei Chiashi, Takashi Kodama, (&Dagger;: Equal contribution)  
    "Effect of bundling on phonon transport in single-walled carbon nanotubes"  
