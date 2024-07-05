@@ -21,7 +21,7 @@
 ## Refereed Papers
 
 1. **Takuma Shiga**<sup>&dagger;</sup>, Emi Minamitani<sup>&dagger;</sup>, Yuichiro Yamashita, Takashi Yagi, Naoyuki Taketoshi, Yuzo Shigesato, and Makoto Kashiwagi<sup>&dagger;</sup>  
-   "Thermal transport and topological analyses of the heat-carrying modes and their relevant local structures in varisouly dense amorphous alumina"  
+   "Thermal transport and topological analyses of the heat-carrying modes and their relevant local structures in variously dense amorphous alumina"  
    *Applied Physics Letters* **125**(1), 012201 (2024). <https://doi.org/10.1063/5.0200729>
 
 1. Shingi Yamaguchi, Issei Tsunekawa, Makito Furuta, Chirag Anilkumar, Yuxuan Liao, **Takuma Shiga**, Takashi Kodama, and Junichiro Shiomi<sup>&dagger;</sup>  
