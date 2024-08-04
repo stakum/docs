@@ -1,99 +1,99 @@
 # Publications
 
-&dagger; indicates corresponding author.
+&#42; indicates corresponding author.
 
 ## Preprints/Submitted articles
 
 
 ## Review Articles
 
-- Masahiro Nomura<sup>&dagger;</sup>, Junichiro Shiomi<sup>&dagger;</sup>, **Takuma Shiga**, and Roman Anufriev  
+- Masahiro Nomura<sup>&#42;</sup>, Junichiro Shiomi<sup>&#42;</sup>, **Takuma Shiga**, and Roman Anufriev  
     "Thermal phonon engineering by tailored nanostructures"  
     *Japanese Journal of Applied Physics* **57**, 080101(1-11) (2018). **[invited review]**   
     <https://doi.org/10.7567/JJAP.57.080101>
 
 ## Refereed Papers
 
-1. **Takuma Shiga**<sup>&dagger;,&Dagger;</sup>, Yukihiko Terada<sup>&Dagger;</sup>, Takashi Kodama, Shohei Chiashi (&Dagger; Equal contribution)  
+1. **Takuma Shiga**<sup>&#42;,&Dagger;</sup>, Yukihiko Terada<sup>&Dagger;</sup>, Takashi Kodama, Shohei Chiashi (&Dagger; Equal contribution)  
    "Influence of perturbative intertube interactions on ballistic and quasi-ballistic phonon transports in double-walled arbon nanotubes"  
    *International Journal of Heat and Mass Transfer*, **accepted** (2024).
 
-1. Kaiyao Zhou, Kan Ueji<sup>&dagger;</sup>, **Takuma Shiga**, Hiroyuki Nishidome, Shigeki Saito, Sota Nakamura, Takahiko Endo, Yohei Yomogida, Yasumitsu Miyata, Junei Kobayashi, Takahiro Yamamoto, Takashi Yagi, and Kazuhiro Yanagi<sup>&dagger;</sup>  
+1. Kaiyao Zhou, Kan Ueji<sup>&#42;</sup>, **Takuma Shiga**, Hiroyuki Nishidome, Shigeki Saito, Sota Nakamura, Takahiko Endo, Yohei Yomogida, Yasumitsu Miyata, Junei Kobayashi, Takahiro Yamamoto, Takashi Yagi, and Kazuhiro Yanagi<sup>&#42;</sup>  
    "Correlation between the cross-plane thermal and electrical conductance in randomly stacked MoS<sub>2</sub>"  
    *ACS Applied Electronic Materials* (2024).  
    <https://doi.org/10.1021/acsaelm.4c00911>
 
-1. **Takuma Shiga**<sup>&dagger;</sup>, Emi Minamitani<sup>&dagger;</sup>, Yuichiro Yamashita, Takashi Yagi, Naoyuki Taketoshi, Yuzo Shigesato, and Makoto Kashiwagi<sup>&dagger;</sup>  
+1. **Takuma Shiga**<sup>&#42;</sup>, Emi Minamitani<sup>&#42;</sup>, Yuichiro Yamashita, Takashi Yagi, Naoyuki Taketoshi, Yuzo Shigesato, and Makoto Kashiwagi<sup>&#42;</sup>  
    "Thermal transport and topological analyses of the heat-carrying modes and their relevant local structures in variously dense amorphous alumina"  
    *Applied Physics Letters* **125**(1), 012201(1-6) (2024).  
    <https://doi.org/10.1063/5.0200729>
 
-1. Shingi Yamaguchi, Issei Tsunekawa, Makito Furuta, Chirag Anilkumar, Yuxuan Liao, **Takuma Shiga**, Takashi Kodama, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Shingi Yamaguchi, Issei Tsunekawa, Makito Furuta, Chirag Anilkumar, Yuxuan Liao, **Takuma Shiga**, Takashi Kodama, and Junichiro Shiomi<sup>&#42;</sup>  
   "Anisotropic Thermal Conductivity Enhancement of Aligned Metal-Organic Framework under Water Vapor Adsorption"  
    *The Journal of Physical Chemistry Letters* **15**(25), 6628-6633 (2024).  
    <https://doi.org/10.1021/acs.jpclett.4c01244>
 
-1. **Takuma Shiga**<sup>&dagger;,&Dagger;</sup>, Yukihiko Terada<sup>&Dagger;</sup>, Shohei Chiashi, Takashi Kodama, (&Dagger;: Equal contribution)  
+1. **Takuma Shiga**<sup>&#42;,&Dagger;</sup>, Yukihiko Terada<sup>&Dagger;</sup>, Shohei Chiashi, Takashi Kodama, (&Dagger;: Equal contribution)  
    "Effect of bundling on phonon transport in single-walled carbon nanotubes"  
    *Carbon* **223**, 119048(1-8) (2024).  
    <https://doi.org/10.1016/j.carbon.2024.119048>
 
-1. **Takuma Shiga**<sup>&dagger;</sup>, Hiroshi Fujihisa, Yuzo Shigesato, and Takashi Yagi  
+1. **Takuma Shiga**<sup>&#42;</sup>, Hiroshi Fujihisa, Yuzo Shigesato, and Takashi Yagi  
    "Phonon transport characteristics of *&alpha;*, *&beta;*, and *&gamma;* crystalline phases of magnesium hydride from first-principles-based anharmonic lattice dynamics"  
    *Materials Today Communication* **38**, 108192(1-9) (2024).  
    <https://doi.org/10.1016/j.mtcomm.2024.108192>
 
-1. Emi Minamitani<sup>&dagger;</sup>, **Takuma Shiga**, Makoto Kashiwagi, and Ippei Obayashi  
+1. Emi Minamitani<sup>&#42;</sup>, **Takuma Shiga**, Makoto Kashiwagi, and Ippei Obayashi  
    "Topological descriptor of thermal conductivity in amorphous Si"  
    *The Journal of Chemical Physics* **156**(24), 244502(1-13) (2022).  
    <https://doi.org/10.1063/5.0093441>
 
-1. Emi Minamitani<sup>&dagger;</sup>, **Takuma Shiga**, Makoto Kashiwagi, and Ippei Obayashi  
+1. Emi Minamitani<sup>&#42;</sup>, **Takuma Shiga**, Makoto Kashiwagi, and Ippei Obayashi  
     "Relationship between local coordinates and thermal conductivity in amorphous carbon"  
     *Journal of Vacuum Science & Technology A* **40**(3), 033408(1-13) (2022).  
     <https://doi.org/10.1116/6.0001744>
 
-1. Takuro Takunaga, Masao Arai, Kazuaki Kobayashi, Wataru Hayami, Shigeru Suehara, **Takuma Shiga**<sup>&dagger;</sup>, Keunhan Park<sup>&dagger;</sup>, and Mathieu Francouer<sup>&dagger;</sup>   
+1. Takuro Takunaga, Masao Arai, Kazuaki Kobayashi, Wataru Hayami, Shigeru Suehara, **Takuma Shiga**<sup>&#42;</sup>, Keunhan Park<sup>&#42;</sup>, and Mathieu Francouer<sup>&#42;</sup>   
     "First-principles calculations of phonon transport across a vacuum gap"   
     *Physical Review B* **105**(4), 045410(1-8) (2022).  
     <https://doi.org/10.1103/PhysRevB.105.045410>
 
-1. Takuro Tokunaga, Amun Jarzembski, **Takuma Shiga**, Keunhan Park<sup>&dagger;</sup>, and Mathieu Francoeur<sup>&dagger;</sup>  
+1. Takuro Tokunaga, Amun Jarzembski, **Takuma Shiga**, Keunhan Park<sup>&#42;</sup>, and Mathieu Francoeur<sup>&#42;</sup>  
     “Extreme Near-Field Heat Transfer Between Gold Surfaces”  
     *Physical Review B* **104**(12), 125404(1-7) (2021).  
     <https://doi.org/10.1103/PhysRevB.104.125404>
 
-1. Takafumi Oyake, Lei Feng, Makoto Kashiwagi, **Takuma Shiga**, Takuma Hori, Suto Yamasaka, Yoshiaki Nakamura, and Junichiro Shiomi<sup>&dagger;</sup>   
+1. Takafumi Oyake, Lei Feng, Makoto Kashiwagi, **Takuma Shiga**, Takuma Hori, Suto Yamasaka, Yoshiaki Nakamura, and Junichiro Shiomi<sup>&#42;</sup>   
     “Synergistic phonon scattering in epitaxial silicon multilayers with germanium nanodot inclusions”   
     *Physical Review B* **104**(5), 054301(1-7) (2021).  
     <https://doi.org/10.1103/PhysRevB.104.054301>
 
-1. Tatsuki Ichikawa, Emi Minamitani, Yuzo Shigesato, Makoto Kashiwagi, and **Takuma Shiga**<sup>&dagger;</sup>  
+1. Tatsuki Ichikawa, Emi Minamitani, Yuzo Shigesato, Makoto Kashiwagi, and **Takuma Shiga**<sup>&#42;</sup>  
     “How mass disorder affects heat conduction in ternary amorphous alloys”  
     *AIP Advances* **11**(6), 065206(1-6) (2021).  
     <https://doi.org/10.1063/5.0051285>
 
-1. Michimasa Morita and **Takuma Shiga**<sup>&dagger;</sup>  
+1. Michimasa Morita and **Takuma Shiga**<sup>&#42;</sup>  
     “Surface phonons limit heat conduction in thin films”  
     *Physical Review B* **103**(19), 195418(1-12) (2021).  
     <https://doi.org/10.1103/PhysRevB.103.195418>
 
-1. Shingi Yamaguchi, **Takuma Shiga**, Shun Ishioka, Tsuguyuki Saito, Takashi Kodama, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Shingi Yamaguchi, **Takuma Shiga**, Shun Ishioka, Tsuguyuki Saito, Takashi Kodama, and Junichiro Shiomi<sup>&#42;</sup>  
     “Anisotropic Thermal Conductivity Measurement of Organic Thin Film with Bidirectional 3ω method”  
     *Review of Scientific Instruments* **92**(3), 034902(1-6) (2021).  
     <https://doi.org/10.1063/5.0030982>
 
-1. Kento Adachi, Kazuho Daicho, Makito Furuta, **Takuma Shiga**, Tsuguyuki Saito, and Takashi Kodama<sup>&dagger;</sup>   
+1. Kento Adachi, Kazuho Daicho, Makito Furuta, **Takuma Shiga**, Tsuguyuki Saito, and Takashi Kodama<sup>&#42;</sup>   
     “Thermal conduction through individual cellulose nanofibers”  
     *Applied Physics Letters* **118**(5), 053701(1-5) (2021).  
     <https://doi.org/10.1063/5.0042463>
 
-1. Shingi Yamaguchi, Issei Tsunekawa, Natsumi Komatsu, Weilu Gao, **Takuma Shiga**, Takashi Kodama, Junichiro Kono<sup>&dagger;</sup>, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Shingi Yamaguchi, Issei Tsunekawa, Natsumi Komatsu, Weilu Gao, **Takuma Shiga**, Takashi Kodama, Junichiro Kono<sup>&#42;</sup>, and Junichiro Shiomi<sup>&#42;</sup>  
     “One-dimensional thermal transport in densely aligned single-wall carbon nanotube films”  
     *Applied Physics Letters* **115**(22), 223104(1-5) (2019).  
     <https://doi.org/10.1063/1.5127209>
 
-1. Xiaoxiang Yu, Ruiyang Li, **Takuma Shiga**, Lei Feng, Meng An, Lifa Zhang, Junichiro Shiomi<sup>&dagger;</sup>, and Nuo Yang<sup>&dagger;</sup>  
+1. Xiaoxiang Yu, Ruiyang Li, **Takuma Shiga**, Lei Feng, Meng An, Lifa Zhang, Junichiro Shiomi<sup>&#42;</sup>, and Nuo Yang<sup>&#42;</sup>  
     “Hybrid Thermal Transport Characteristics of Doped Organic Semiconductor Poly(3,4-ethylenedioxythiophene):Tosylate”  
     *The Journal of Physical Chemistry* **123**(43), 26735-26741 (2019).  
     <https://doi.org/10.1021/acs.jpcc.9b09105>
@@ -103,179 +103,179 @@
     *ACS Applied Materials & Interfaces* **11**(40), 37295-37301 (2019).  
     <https://doi.org/10.1021/acsami.9b11951>
 
-1. Makoto Kashiwagi, Yuxuan Liao, Shenghong Ju, Asuka Miura, Shota Konishi, **Takuma Shiga**, Takashi Kodama, and Junichiro Shiomi<sup>&dagger;</sup> 
+1. Makoto Kashiwagi, Yuxuan Liao, Shenghong Ju, Asuka Miura, Shota Konishi, **Takuma Shiga**, Takashi Kodama, and Junichiro Shiomi<sup>&#42;</sup> 
     “Scalable multi-nanostructured silicon for room temperature thermoelectrics”  
     *ACS Applied Energy Materials* **2**(10), 7083-7091 (2019).  
     <https://doi.org/10.1021/acsaem.9b00893>
    
-1. Masataka Nagata, Shivani Shukla, Yusuke Nakanishi<sup>&dagger;</sup>, Zheng Liu<sup>&dagger;</sup>, Yung-Chang Lin, **Takuma Shiga**, Yuta Nakamura, Takeshi Koyama, Hideo Kishida, Tsukasa Inoue, Naoyuki Kanda, Shun Ohno, Yuki Sakagawa, Kazu Suenaga, and Hisanori Shinohara<sup>&dagger;</sup>  
+1. Masataka Nagata, Shivani Shukla, Yusuke Nakanishi<sup>&#42;</sup>, Zheng Liu<sup>&#42;</sup>, Yung-Chang Lin, **Takuma Shiga**, Yuta Nakamura, Takeshi Koyama, Hideo Kishida, Tsukasa Inoue, Naoyuki Kanda, Shun Ohno, Yuki Sakagawa, Kazu Suenaga, and Hisanori Shinohara<sup>&#42;</sup>  
     “Isolation of Single-wired Transition-metal Monochalcogenides by Carbon Nanotubes”  
     *Nano Letters* **19**(8), 4845-4851 (2019).  
     <https://doi.org/10.1021/acs.nanolett.8b05074>
     
-1. **Takuma Shiga**<sup>&dagger;</sup> and Junichiro Shiomi<sup>&dagger;</sup> 
+1. **Takuma Shiga**<sup>&#42;</sup> and Junichiro Shiomi<sup>&#42;</sup> 
     “Modulating temperature dependence of thermal conductivity by nanostructuring”  
     *Japanese Journal of Applied Physics (Rapid Communication)* **57**(12), 120312(1-4) (2018).  
     <https://doi.org/10.7567/JJAP.57.120312>
     
-1. Yuxuan Liao, **Takuma Shiga**, Makoto Kashiwagi, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Yuxuan Liao, **Takuma Shiga**, Makoto Kashiwagi, and Junichiro Shiomi<sup>&#42;</sup>  
     “Akhiezer mechanism limits coherent heat conduction in phononic crystals”  
     *Physical Review B* **98**(13), 134307(1-8) (2018).  
     <https://doi.org/10.1103/PhysRevB.98.134307>
     
-1. Makoto Kashiwagi, Yuta Sudo, **Takuma Shiga**, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Makoto Kashiwagi, Yuta Sudo, **Takuma Shiga**, and Junichiro Shiomi<sup>&#42;</sup>  
     “Modeling Heat Conduction in Nanoporous Silicon with Geometry Distributions”  
     *Physical Review Applied* **10**(4), 044018(1-8) (2018).  
     <https://doi.org/10.1103/PhysRevApplied.10.044018>
     
-1. Shunsuke Maeno, James J. Cannon, **Takuma Shiga**<sup>&dagger;</sup>, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Shunsuke Maeno, James J. Cannon, **Takuma Shiga**<sup>&#42;</sup>, and Junichiro Shiomi<sup>&#42;</sup>  
     “Molecular dynamics study on heat conduction in poly(3,4-ethylenedioxythiophene)”  
     *Japanese Journal of Applied Physics* **57**(10), 101601(1-6) (2018).  
     <https://doi.org/10.7567/JJAP.57.101601>
 
-1. Shenghong Ju, **Takuma Shiga**, Lei Feng, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Shenghong Ju, **Takuma Shiga**, Lei Feng, and Junichiro Shiomi<sup>&#42;</sup>  
     “Revisiting PbTe to identify how thermal conductivity is really limited”  
     *Physical Review B* **97**(18), 184305(1-6) (2018).  
     <https://doi.org/10.1103/PhysRevB.97.184305>
 
-1. Noriyuki Wada, Makoto Ishikawa, **Takuma Shiga**, Junichiro Shiomi, Masaru Suzuki, and Kouji Miura<sup>&dagger;</sup>  
+1. Noriyuki Wada, Makoto Ishikawa, **Takuma Shiga**, Junichiro Shiomi, Masaru Suzuki, and Kouji Miura<sup>&#42;</sup>  
     “Superlubrication by phonon confinement”  
     *Physical Review B* **97**(16), 161403(R)(1-5) (2018).  
     <https://doi.org/10.1103/PhysRevB.97.161403>
 
-1. Takafumi Oyake, Lei Feng, **Takuma Shiga**, Masayuki Isogawa, Yoshiaki Nakamura, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Takafumi Oyake, Lei Feng, **Takuma Shiga**, Masayuki Isogawa, Yoshiaki Nakamura, and Junichiro Shiomi<sup>&#42;</sup>  
     “Ultimate Confinement of Phonon Propagation in Silicon Nanocrystalline Structure”  
     *Physical Review Letters* **120**(4), 045901(1-6) (2018).  
     <https://doi.org/10.1103/PhysRevLett.120.045901>
 
-1. Lei Feng, **Takuma Shiga**, Haoxue Han, Shenghong Ju, Yuriy A. Kosevich<sup>&dagger;</sup>, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Lei Feng, **Takuma Shiga**, Haoxue Han, Shenghong Ju, Yuriy A. Kosevich<sup>&#42;</sup>, and Junichiro Shiomi<sup>&#42;</sup>  
     "Phonon-interference resonance effects by nanoparticles embedded in a matrix”  
     *Physical Review B* **96**(22), 220301(R)(1-5) (2017).  
     <https://doi.org/10.1103/PhysRevB.96.220301>
 
-1. Anuj Arora, Takuma Hori, **Takuma Shiga**, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Anuj Arora, Takuma Hori, **Takuma Shiga**, and Junichiro Shiomi<sup>&#42;</sup>  
     “Thermal rectification in restructured graphene with locally modulated temperature dependence of thermal conductivity”  
     *Physical Review B* **96**(16), 165419(1-10) (2017).  
     <https://doi.org/10.1103/PhysRevB.96.165419>
 
-1. Takashi Kodama<sup>&dagger;</sup>, Masato Ohnishi, Woosung Park, **Takuma Shiga**, Joonsuk Park, Takashi Shimada, Hisanori Shinohara, Junichiro Shiomi, and Kenneth E. Goodson<sup>&dagger;</sup>  
+1. Takashi Kodama<sup>&#42;</sup>, Masato Ohnishi, Woosung Park, **Takuma Shiga**, Joonsuk Park, Takashi Shimada, Hisanori Shinohara, Junichiro Shiomi, and Kenneth E. Goodson<sup>&#42;</sup>  
     “Modulation of thermal and thermoelectric transport in individual carbon nanotubes by fullerne encapsulation”  
     *Nature Materials* **16**(9), 892-898 (2017).  
     <https://doi.org/10.1038/nmat4946>
 
-1. Shenghong Ju, **Takuma Shiga**, Lei Feng, Zhufeng Hou, Koji Tsuda, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Shenghong Ju, **Takuma Shiga**, Lei Feng, Zhufeng Hou, Koji Tsuda, and Junichiro Shiomi<sup>&#42;</sup>  
     “Designing Nanostructures for Phonon Transport via Bayesian Optimization”  
     *Physical Review X* **7**(2), 021024(1-10) (2017).  
     <https://doi.org/10.1103/PhysRevX.7.021024>
    
-1. Masato Ohnishi, **Takuma Shiga**, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Masato Ohnishi, **Takuma Shiga**, and Junichiro Shiomi<sup>&#42;</sup>  
     “Effects of defects on thermoelectric properties of carbon nanotubes”  
     *Physical Review B* **95**(15), 155405(1-10) (2017).  
     <https://doi.org/10.1103/PhysRevB.95.155405>
 
-1. Haoxue Han<sup>&dagger;</sup>, Lei Feng, Shiyun Xiong, **Takuma Shiga**, Junichiro Shiomi<sup>&dagger;</sup>, Sebastian Volz<sup>&dagger;</sup>, and Yuriy A. Kosevich<sup>&dagger;</sup>  
+1. Haoxue Han<sup>&#42;</sup>, Lei Feng, Shiyun Xiong, **Takuma Shiga**, Junichiro Shiomi<sup>&#42;</sup>, Sebastian Volz<sup>&#42;</sup>, and Yuriy A. Kosevich<sup>&#42;</sup>  
     “Long-range interatomic forces can minimize heat transfer: From slowdown of longitudinal optical phonons to thermal conductivity minimum”  
     *Physical Review B* **94**(5), 054306(1-8) (2016).  
     <https://doi.org/10.1103/PhysRevB.94.054306>
 
-1. Haoxue Han<sup>&dagger;</sup>, Lei Feng, Shiyun Xiong, **Takuma Shiga**, Junichiro Shiomi, Sevastian Volz, and Yuriy A. Kosevich<sup>&dagger;</sup>  
+1. Haoxue Han<sup>&#42;</sup>, Lei Feng, Shiyun Xiong, **Takuma Shiga**, Junichiro Shiomi, Sevastian Volz, and Yuriy A. Kosevich<sup>&#42;</sup>  
     “Effects of phonon interference through long range interatomic bonds on thermal interface conductance”  
     *Low Temperature Physics* **42**(8), 711-716 (2016).  
     <https://doi.org/10.1063/1.4960498>
 
-1. **Takuma Shiga**<sup>&dagger;</sup>, Daisuke Aketo, Lei Feng, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. **Takuma Shiga**<sup>&#42;</sup>, Daisuke Aketo, Lei Feng, and Junichiro Shiomi<sup>&#42;</sup>  
     “Harmonic phonon theory for calculating thermal conductivity spectrum from first-principles dispersion relations”  
     *Applied Physics Letters* **108**(20), 201903(1-5) (2016).  
     <https://doi.org/10.1063/1.4950851>
 
-1. Lei Feng, **Takuma Shiga**, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Lei Feng, **Takuma Shiga**, and Junichiro Shiomi<sup>&#42;</sup>  
     “Phonon transport in perovskite SrTiO<sub>3</sub> from first principles”  
     *Applied Physics Express* **8**(7), 071501(1-4) (2015).  
     <https://doi.org/10.7567/APEX.8.071501>
     
-1. Heeyuen Koh, James J. Cannon, **Takuma Shiga**, Junichiro Shiomi, Shohei Chiashi, and Shigeo Maruyama<sup>&dagger;</sup>  
+1. Heeyuen Koh, James J. Cannon, **Takuma Shiga**, Junichiro Shiomi, Shohei Chiashi, and Shigeo Maruyama<sup>&#42;</sup>  
     “Thermally induced nonlinear vibration of single-walled carbon nanotubes”  
     *Physical Review B* **92**(2), 024306(1-10) (2015).  
     <https://doi.org/10.1103/PhysRevB.92.024306>
     
-1. Takuru Murakami, Takuma Hori, **Takuma Shiga**, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Takuru Murakami, Takuma Hori, **Takuma Shiga**, and Junichiro Shiomi<sup>&#42;</sup>  
     “Probing and tuning inelastic phonon conductance across finite-thickness interface”  
     *Applied Physics Express* **7**(4), 121801(1-4) (2014).  
     <https://doi.org/10.7567/APEX.7.121801>
 
-1. Daisuke Aketo, **Takuma Shiga**, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Daisuke Aketo, **Takuma Shiga**, and Junichiro Shiomi<sup>&#42;</sup>  
     “Scaling laws of cumulative thermal conductivity for short and long phonon mean free paths”  
     *Applied Physics Letters* **105**(13), 131901(1-5) (2014).  
     <https://doi.org/10.1063/1.4896844>
     
-1. **Takuma Shiga**, Takuru Murakami, Takuma Hori, Olivier Delaire, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. **Takuma Shiga**, Takuru Murakami, Takuma Hori, Olivier Delaire, and Junichiro Shiomi<sup>&#42;</sup>  
     “Origin of anomalous anharmonic lattice dynamics of lead telluride”  
     *Applied Physics Express* **7**(4), 041801(1-4) (2014).  
     <https://doi.org/10.7567/APEX.7.041801>
     
-1. **Takuma Shiga**, Takuma Hori, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. **Takuma Shiga**, Takuma Hori, and Junichiro Shiomi<sup>&#42;</sup>  
     “Influence of mass contrast in alloy phonon scattering”  
     *Japanese Journal of Applied Physics* **53**(2), 021802(1-6) (2014). **(SPOTLIGHTS)**  
     <https://doi.org/10.7567/JJAP.53.021802>
 
-1. Sho Hida, Takuma Hori, **Takuma Shiga**, James Elliott, Junichiro Shiomi<sup>&dagger;</sup>  
+1. Sho Hida, Takuma Hori, **Takuma Shiga**, James Elliott, Junichiro Shiomi<sup>&#42;</sup>  
     “Thermal resistance and phonon scattering at the interface between carbon nanotube and amorphous polyethylene”  
     *International Journal of Heat and Mass Transfer* **67**, 1024-1029 (2013).  
     <https://doi.org/10.1016/j.ijheatmasstransfer.2013.08.068>
 
-1. Takuru Murakami, **Takuma Shiga**, Takuma Hori, Keivan Esfarjani, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Takuru Murakami, **Takuma Shiga**, Takuma Hori, Keivan Esfarjani, and Junichiro Shiomi<sup>&#42;</sup>  
     “Importance of local force fields on lattice thermal conductivity reduction in PbTe1−xSex alloys”  
     *EPL(Europhysics Letters)* **102**(4), 46002(1-5) (2013). **(Editor’s choice)**  
     <https://doi.org/10.1209/0295-5075/102/46002>
 
-1. Takuma Hori, **Takuma Shiga**, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Takuma Hori, **Takuma Shiga**, and Junichiro Shiomi<sup>&#42;</sup>  
     “Phonon transport analysis of silicon germanium alloys using molecular dynamics simulations”  
     *Journal of Applied Physics* **113**(20), 203514(1-6) (2013).  
     <https://doi.org/10.1063/1.4807301>
     
-1. **Takuma Shiga**, Satoru Konabe, Junichiro Shiomi, Takahiro Yamamoto, Shigeo Maruyama, and Susumu Okada<sup>&dagger;</sup>  
+1. **Takuma Shiga**, Satoru Konabe, Junichiro Shiomi, Takahiro Yamamoto, Shigeo Maruyama, and Susumu Okada<sup>&#42;</sup>  
     “Graphene-diamond hybrid structure as spin-polarized conducting wire with thermally efficient heat sinks”  
     *Applied Physics Letters* **100**(23), 233101(1-4) (2012).  
     <https://doi.org/10.1063/1.4725485>
 
-1. Zhiting Tian<sup>&dagger;</sup>, Jivtesh Garg, Keivan Esfarjani, **Takuma Shiga**, Junichiro Shiomi, and Gang Chen<sup>&dagger;</sup>  
+1. Zhiting Tian<sup>&#42;</sup>, Jivtesh Garg, Keivan Esfarjani, **Takuma Shiga**, Junichiro Shiomi, and Gang Chen<sup>&#42;</sup>  
     ”Phonon conduction in PbSe, PbTe, and PbTe<sub>1−<i>x</i></sub>Se<sub><i>x</i></sub> from first-principles calculations”  
     *Physical Review B* **85**(18), 184303(1-7) (2012).  
     <https://doi.org/10.1103/PhysRevB.85.184303>
 
-1. **Takuma Shiga**, Junichiro Shiomi<sup>&dagger;</sup>, Jie Ma, Olivier Delaire, Tomasz Radzynski, Andrzej Lusakowski, Keivan Esfarjani, and Gang Chen  
+1. **Takuma Shiga**, Junichiro Shiomi<sup>&#42;</sup>, Jie Ma, Olivier Delaire, Tomasz Radzynski, Andrzej Lusakowski, Keivan Esfarjani, and Gang Chen  
     “Microscopic mechanism of low thermal conductivity in lead telluride”  
     *Physical Review B* **85**(5), 155203(1-5) (2012).  
     <https://doi.org/10.1103/PhysRevB.85.155203>
 
-1. Alexey N. Volkov, **Takuma Shiga**, David Nicholson, Junichiro Shiomi<sup>&dagger;</sup>, and Lenoid V. Zhigilei<sup>&dagger;</sup>  
+1. Alexey N. Volkov, **Takuma Shiga**, David Nicholson, Junichiro Shiomi<sup>&#42;</sup>, and Lenoid V. Zhigilei<sup>&#42;</sup>  
     “Effect of bending buckling of carbon nanotubes on thermal conductivity of carbon nanotube materials”  
     *Journal of Applied Physics* **111**(5), 053501(1-11) (2012).  
     <https://doi.org/10.1063/1.3687943>
 
-1. Fumio Nishimura, **Takuma Shiga**, Shigeo Maruyama, Kazuyuki Watanabe, and Junichiro Shiomi<sup>&dagger;</sup>  
+1. Fumio Nishimura, **Takuma Shiga**, Shigeo Maruyama, Kazuyuki Watanabe, and Junichiro Shiomi<sup>&#42;</sup>  
     “Thermal conductance of buckled carbon nanotubes”  
     *Japanese Journal of Applied Physics* **51**(1R), 015102(1-5) (2012). **(SPOTLIGHTS)**  
     <https://doi.org/10.1143/JJAP.51.015102>
 
 ## Original Papers in Japanese
 
-1. 寺田 行彦，**志賀 拓麿**<sup>&dagger;</sup>  
+1. 寺田 行彦，**志賀 拓麿**<sup>&#42;</sup>  
     ”ねじれグラフェンナノリボン熱伝導の弾道輸送解析”  
     *日本機械学会論文集* **86**(892), 20-00292(1-11) (2020).  
     <https://doi.org/10.1299/transjsme.20-00292>
     
-2. 山本 佳亮，**志賀 拓麿**，塩見 淳一郎<sup>&dagger;</sup>  
+2. 山本 佳亮，**志賀 拓麿**，塩見 淳一郎<sup>&#42;</sup>  
     ”高熱電変換性能ハーフホイスラー化合物の合金組成”  
     *日本機械学会論文集* **81**(825), 14-00652(1-8) (2015).  
     <https://doi.org/10.1299/transjsme.14-00652>
 
-3. 飛田 翔，**志賀 拓麿**，丸山 茂夫，塩見 淳一郎<sup>&dagger;</sup>  
+3. 飛田 翔，**志賀 拓麿**，丸山 茂夫，塩見 淳一郎<sup>&#42;</sup>  
     ”カーボンナノチューブ/ポリマー複合材の熱伝導における界面熱抵抗と界面フォノン散乱の影響”  
     *日本機械学会論文集B編* **78**(787), 634-643 (2012).  
     <https://doi.org/10.1299/kikaib.78.634>
 
-4. 堀 琢磨，**志賀 拓麿**，丸山 茂夫，塩見 淳一郎<sup>&dagger;</sup>  
+4. 堀 琢磨，**志賀 拓麿**，丸山 茂夫，塩見 淳一郎<sup>&#42;</sup>  
     ”分子動力学法によるシリコン結晶のモード依存フォノン輸送解析”  
     *日本機械学会論文集B編* **78**(786), 328-337 (2012).  
     <https://doi.org/10.1299/kikaib.78.328>
